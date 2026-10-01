@@ -179,7 +179,7 @@ Sign Language Recognition/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/burhan-arshad24/realtime-sign-language-recognition
+git clone https://github.com/burhan-arshad/realtime-sign-language-recognition
 ```
 
 ### 2. Create Virtual Environment
